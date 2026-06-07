@@ -34,5 +34,3 @@ Bash tool:
 ```bash
 chmod +x nse_scanner.sh
 ./nse_scanner.sh
-```
- created for educational and authorized lab environments only.
